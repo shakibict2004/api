@@ -1,0 +1,24 @@
+.shakib_d{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  min-height: 500px;
+  overflow: hidden;
+  background-color: #f8f9fa;
+  border:1px solid #ddd;
+  border-radius: 8px;
+  padding: 20px;
+
+}
+.shakib_d h3 {
+  margin: 10px 0;
+  color: #343a40;
+  font-size: 20px;
+
+}
+.shakib_d p {
+  flex-grow: 1;
+  margin-bottom: 20px;
+  margin-top: 10px;
+  color: #6c757d;
+}
